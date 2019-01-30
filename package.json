@@ -22,12 +22,13 @@
 
 
   "peerDependencies": {
-    "typedoc": "^0.5.10"
+    "typedoc": ">=0.10.0",
+    "typescript": ">=3.2.0"
   },
 
   "devDependencies": {
-    "typedoc": "^0.5.10",
-    "typescript": "^2.1.5"
+    "typedoc": ">=0.10.0",
+    "typescript": ">=3.2.0"
   },
 
 
