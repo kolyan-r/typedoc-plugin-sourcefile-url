@@ -6,7 +6,7 @@ This plugin allows to create links to files hosted on other platforms and sites 
 
 # Installation
 
-    npm install --save git+https://git@github.com/kolyan-r/typedoc-plugin-sourcefile-url.git
+    npm install --save kolyan-r/typedoc-plugin-sourcefile-url
     
 typedoc will automatically detect and load the plugin from `node_modules`.
 
