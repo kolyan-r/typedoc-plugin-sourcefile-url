@@ -21,13 +21,13 @@
   ],
 
   "dependencies": {
-    "typedoc": "=>0.14.2",
-    "typescript": "=>3.2.4"
+    "typedoc": "^0.14.2",
+    "typescript": "^3.2.4"
   },
 
   "devDependencies": {
-    "typedoc": ">=0.14.2",
-    "typescript": "=>3.2.4"
+    "typedoc": "^0.14.2",
+    "typescript": "^3.2.4"
   },
 
 
