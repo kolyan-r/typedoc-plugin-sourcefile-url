@@ -36,6 +36,7 @@
   "scripts": {
     "build": "tsc",
     "prepublish": "npm run build",
-    "prepare": "npm run build"
+    "prepare": "npm run build",
+    "install": "npm run build"
   }
 }
