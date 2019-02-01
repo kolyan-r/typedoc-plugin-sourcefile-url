@@ -20,14 +20,14 @@
     "gitlab"
   ],
 
-  "dependencies": {
-    "typedoc": "^0.14.2",
-    "typescript": "^3.2.4"
+  "peerDependencies": {
+    "typedoc": ">=0.14.0",
+    "typescript": ">=3.2.0"
   },
 
   "devDependencies": {
-    "typedoc": "^0.14.2",
-    "typescript": "^3.2.4"
+    "typedoc": ">=0.14.0",
+    "typescript": ">=3.2.0"
   },
 
 
